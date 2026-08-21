@@ -1,7 +1,7 @@
 # Busca em Vetor - Exercício 2 aula 2.
 
-## Resultados
-- Tamanho do vetor: 10.000.000 elementos
+## Análise de desempenho
+- Tamanho do vetor: 10.000.000
 - Numero buscado: 5.000.000
-- Encontrou: true
+- Encontrou o número: true
 - Tempo de busca: 4ms
