@@ -1,4 +1,3 @@
-package unidade02;
 import java.util.Arrays;
 import java.util.Comparator;
 
